@@ -1,3 +1,3 @@
 onions
-olive
+Lettuce
 bread
